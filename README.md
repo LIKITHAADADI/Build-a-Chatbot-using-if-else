@@ -14,7 +14,7 @@ This project demonstrates how to build a simple **rule-based chatbot** using Pyt
 
 1️⃣ **Clone or Download this Repository**
 
-git clone https://github.com/your-username/chatbot-ifelse.git
+git clone https://github.com/LIKITHAADADI/Build-a-Chatbot-using-if-else.git
 
 cd chatbot-ifelse
 
